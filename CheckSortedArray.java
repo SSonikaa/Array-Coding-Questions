@@ -21,7 +21,7 @@ public class CheckSortedArray {
             }   
         }
         if (count == 1 ){ System.out.println("The array is not sorted");}
-        else { System.out.println("The array is sorted");}
+        else { System.out.println("The array is.? sorted");}
     
         sc.close();
 }
